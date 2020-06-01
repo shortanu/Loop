@@ -9,6 +9,9 @@ Last commit merged from automatic-bolus: https://github.com/LoopKit/Loop/commit/
 
 Last commit merged from dev-spike: https://github.com/cyoung1024/Loop/commit/dca33b9e4d725e02fc96bfd5d6a4df049b2a8347
 
+Includes Feature: Using Nightscout as CGM data source #1134: https://github.com/LoopKit/Loop/issues/1134
+
+
 ![App Icon](/Loop/Assets.xcassets/AppIcon.appiconset/Icon-Small-40%402x.png?raw=true)
 
 [![Build Status](https://travis-ci.org/LoopKit/Loop.svg?branch=master)](https://travis-ci.org/LoopKit/Loop)
